@@ -1,0 +1,31 @@
+div {
+    height:100px;
+    width:100px;
+    display: inline-block;
+}
+
+#red {
+    background-color:#FF0000;
+}
+#red:hover {
+    background-color:Purple;
+}
+#blue {
+    background-color:#0000FF;
+}
+#blue:hover {
+    background-color: Gray;
+}
+#yellow {
+    background-color:#E2BE22;
+}
+#yellow:hover {
+    background-color: Black;
+}
+
+#green {
+    background-color:#008800;
+}
+#green:hover {
+    background-color: Orange;
+}
